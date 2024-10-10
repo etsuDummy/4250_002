@@ -1,0 +1,21 @@
+<Precondition> <Action> <Postcondition>
+
+1.a. <A missile launcher is not initiated in a solution><User clicks the right mouse button><Solution initiates a missile launch>
+1.b. <A missile launcher is not initiated in a solution><User clicks the space bar><Solution initiates a missile launch>
+1.c. <There are five active missiles on screen><The user imitates another missile><The solution removes the oldest active missile>
+1.d. <There are missiles on screen><A missile goes off screen><Missiles gone off screen are remove, no longer active. On screen missiles stay active>
+1.e. <There are active missiles on screen><The user moves all the missiles in a different direction><All active missiles move at the same constant speed>
+1.f. <There are no or some missiles active on the screen><The user initiates a new missile><A new missile is launched from the center of the bottom of the screen>
+1.g. <There are active missiles on the screen launched from the center bottom><The missiles are moving at a same constant speed><The missiles maintain the same constant direction that is vertically straight up from the launched position>
+1.h. <A missile is on a path to hit a ship><the missile hits the ship><The screen displays "hit" and a lil explosion is shown>
+1.j. <A hit ship and used missile are on screen><The solution removes the remove the used missile and hit ship><All hit ship and used missiles are no longer on the screen>
+1.k. <A ship is hit by a missile><The counter adds +1 to the "Hits" counter><The screen show the current number of hits so far>
+2.a. <There are no active ships><The solution initiates a ship launch><There is active ships ready to be launched>
+2.b. <There are multiple types of ships ready to be launched><The user launches a selected ship to be launched><The solution launches the select ship onto the screen>
+2.c. <Each ship has a corresponding picture of the ship to display when active><A ship is innated and launched onto the screen><The screen shows the ship displayed with its picture>
+2.d. ???
+2.d.i. <Random ship launch is initiated><A random ship is selected by the solution with equal chance><The chosen ship is launched and active on the screen>
+2.d.ii. <There are ten active ships on the screen><A user tries to add another active ship><The solution does not launch another ship as no more than ten ship can be active a time>
+2.d.iii. <A random ship is selected and ready to be launched><The solution randomly selects a location to launch the ship><The ship is placed at that random location>
+
+-This is how far I got given a 25 minute timer.
