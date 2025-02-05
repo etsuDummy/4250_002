@@ -1,0 +1,34 @@
+Sprint: 
+- Must have character movement
+- Must have a character
+- Must have an evironment/level
+- Must track a score for each attempts
+- Must restart when players lose
+- Must be able to rotate the environment/level
+- Can have alternate versions of levels
+- Must handle user input for controls
+- Can have alternate characters
+- Can have different environment types
+
+Trivia:
+- Must have a variety of questions
+- Can have difficulty levels of questions
+- Must track questions answered
+- Must track questions answered correctly
+- Must have a way to deal with good and bad user input
+- Can have a retry feature
+- Can have a shuffle question feature
+- Must deal with users closing the game while playing
+- Must track time taken to complete answering the questions
+
+Ducky:
+- Must speak sometimes when touched sometimes
+- Can have different ducks
+- Can be moved around on the screen
+- Must be able to handle user input
+- Can have a textbox
+  - Should have constraints on what can be said
+  - Should get rid of any information input after being closed
+- Can have different noises
+- Can have a squeak frequency setting
+- Can display textual messages
