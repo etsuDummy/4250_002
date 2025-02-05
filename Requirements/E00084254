@@ -1,0 +1,25 @@
+BUC BATTLE (Only Game I Had A Record Of From The Exercise)
+
+Functional Requirements
+-----------------------
+1. Player Controls – The player must be able to move their pirate ship and fire cannonballs to attack enemy ships.
+
+2. Enemy Waves – The game must generate waves of enemy pirate ships that follow predefined movement patterns and attack the player.
+
+3. Power-ups – The game must provide collectible power-ups that enhance the player's abilities for a limited time.
+
+4. Capture Mechanic – Certain enemy ships must have the ability to capture the player's ship, which can be freed through gameplay actions.
+
+5. Levels & Progression – The game must consist of multiple levels with increasing difficulty, including variations in enemy behavior and attack patterns.
+
+6. Scoring System – The game must track and display the player’s score, awarding points for destroying enemy ships and performing other successful actions.
+
+7. Lives & Game Over – The game must provide the player with a limited number of lives and display a “Game Over” screen when all lives are lost.
+
+Non-Functional Requirements
+---------------------------
+8. Optimized Graphics & Animations – The game must provide 2D graphics and animations that are visually clear across different screen sizes.
+
+9. Audio Feedback – The game must include sound effects and background music that enhance the gameplay experience.
+
+10. Performance & Battery Efficiency – The game must run smoothly while minimizing resource consumption to preserve battery life.
