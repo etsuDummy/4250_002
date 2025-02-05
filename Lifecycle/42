@@ -1,0 +1,28 @@
+Name: 42
+
+Requirements: Determine the necessary aspects of a project
+  A list of requirements
+  Client wants
+  Time limit
+  Justification
+  Description
+  Traceability Matrix
+  Limitations of Project
+  Required materials
+  Needed faculty
+  Priority
+  Clarity
+  Preconditions
+  Are requirements verifiable?
+
+Design: Deciding about how to go about completing the requirements 
+
+Implementation: actually making the thing according to the design
+
+Test: Run the software to make sure it works as intended and check for errors or issues
+
+Release: Once appropriate testing is successful, the software can be sold, distributed, and/or made available to the client for use.
+
+Support/Maintenance: Patches to keep the system running; does not implement new features, but rather fixes bugs or issues with the existing features 
+
+Upgrades/Updates: implements new functionalities into the existing software or modifies old functionalities in a meaningful way
