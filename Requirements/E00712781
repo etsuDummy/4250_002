@@ -1,0 +1,41 @@
+# ---Incompleted Assignment---
+
+Ducky:
+
+  1. Ducky must be displayed on a screen
+  2. Ducky must be interactable
+  3. Ducky must be static
+  4. Ducky must make a quack sound effect
+  5. Quack counter must be displayed above Ducky
+  6. Each quack must give the user spendable points
+  7. Points must be able to be spent at the shop
+  8. Shop must contain extra duckies or increase quacks per tap
+  9. 
+  10. 
+
+Triva:
+
+  1. User must be prompted to create an account
+  2. User data must be saved
+  3. User must select a category for triva to do
+  4. User must be prompted with a question after selecting a triva category
+  5. User must be prompted a question over and over again until all lives are lsot
+  6. User must have three lives
+  7. User must be able to gain lives
+  8.
+  9. 
+  10. 
+
+
+Sprint:
+
+  1. User must be prompted to create an account
+  2. Enviornment must move not the player
+  3. Player must be constantly moving
+  4. Player must be able to jump
+  5.
+  6. 
+  7. 
+  8. 
+  9.
+  10.
