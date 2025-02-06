@@ -1,0 +1,14 @@
+Sprint -
+
+Optional -
+- Choose speed for level (Functional)
+- Can have alternate versions of levels (Functional)
+- Three different obstacles (Functional)
+- Map difficulty selection (Functional)
+- Different skins (Functional)
+- Pause Button (Functional)
+
+Mandatory -
+- Game must have a score counter in endless mode (Functional)
+- Game must handle character movement (Functional)
+- Must reset when the player loses and restarts (Functional)
