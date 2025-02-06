@@ -1,0 +1,40 @@
+Game 1: Campus Rush
+
+	1.	The player uses arrow keys to move forward, left, or right in a sliding motion.
+	2.	The player must navigate roads and buildings while avoiding obstacles like people, golf carts, scooters, and skateboarders.
+	3.	The game increases in speed as the player progresses through levels.
+	4.	The player cannot move backward once a level is completed.
+	5.	The game ends when the player reaches a predefined number of levels or an endpoint.
+	6.	If the player collides with an obstacle, they “die” and restart from the point of death.
+	7.	If the player does not move for a certain period, a hint appears suggesting movement.
+	8.	If the player repeatedly gets hit in the same spot, the game adapts by slowing obstacles temporarily.
+	9.	If the player tries to move out of bounds, they are blocked by an invisible wall.
+	10.	Different characters or skins are available for the player to select.
+
+
+Game 2: Asteroids
+
+	1.	The player uses arrow keys to aim and launch asteroids toward planets.
+	2.	Planets spin at different speeds and vary in size.
+	3.	Successfully hitting a planet grants points and progresses the game.
+	4.	As the player advances, asteroid size decreases, making aiming more challenging.
+	5.	If the player misses, the asteroid continues until it leaves the screen.
+	6.	If the player launches an asteroid too early or late, they must wait for the next opportunity.
+	7.	If a planet is hit multiple times, it may break apart, creating smaller debris obstacles.
+	8.	If the player misses several times in a row, a guiding line appears to assist with aiming.
+	9.	Special power-ups allow for gravity-assisted shots or multiple asteroids at once.
+	10.	A timer mode challenges players to hit as many planets as possible within a time limit.
+
+
+Game 3: Pepper’s Paws
+
+	1.	The game presents a 2D map of the campus.
+	2.	The player follows a series of clues leading to Sgt. Pepper.
+	3.	Paw prints or other markers guide the player toward the next clue.
+	4.	Upon finding Sgt. Pepper, an image appears with a success message.
+	5.	If the player clicks an incorrect location, a hint appears after a short delay.
+	6.	If the player takes too long between clues, a pop-up offers an optional hint.
+	7.	A countdown timer mode challenges the player to find Sgt. Pepper quickly.
+	8.	If the player clicks too many incorrect locations, they must restart the level.
+	9.	Different difficulty levels provide varying numbers of clues.
+	10.	Unlockable alternate paths lead to bonus rewards.
