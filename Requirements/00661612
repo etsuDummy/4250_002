@@ -1,1 +1,36 @@
-Didn't do assignment
+Game 1: Buccs Raid                          Functional = F, Contraint = C, Optional = O, Mandatory = M, 
+● Mobile controls, such as touch controls. (F) (M)
+● Must work in a web browser (C)(M)
+● Must Display current score (F)(M)
+● Must have replayability (F)(M)
+● Must have different ship types (F)(M)
+● Can have more than 3 ship types (C)(O)
+● Must use non-copyrighted images (F)(M)
+● Can have a high score list (F)(O)
+● Can have optimization to conserve battery life (C)(O)
+● Ships must sink when at 0 health (F)(M)
+● Must display "Game Over" when player is at 0 (F)(M)
+● Can have a pause button(F)(O)
+● Ships must shoot projectiles(F)(M)
+● Must have increasing level difficulty(F)(M)
+● Enemy waves must have predefined movement(F)(M)
+
+Game 2: War Card Game
+● Must use all 52 standard playing cards(F)(M)
+● Can have animations for card dealing(C)(O)
+● Must Display "game over" when player runs out of cards(F)(M)
+● Can have a short description of card game if player is unfamiliar with game(F)(O)
+● Must have a restart button after win or loss(F)(M)
+● Must shuffle deck before game(F)(M)
+● Must show what cards are currently in play(F)(M)
+● Can have a pause button(F)(O)
+● Can include increasing enemy difficulty(C)(O)
+● Must have "Draw" condition if all players run out of cards(F)(M)
+● Can add more enemies before starting game(C)(O)
+● Can have leaderboard to track number of wins(F)(O)
+● Can allow customization of card deck (Like regular cards or ETSU themed ones) (C)(O)
+● Must keep track of players current wins(F)(M)
+● Must display remaining cards for each player(F)(M)
+
+
+None of my group could remember the third game, I will add extra requirements to make up for lack of third game.
