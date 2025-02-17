@@ -1,0 +1,42 @@
+Team Paw Patrol: Landen, JL, and Nathanael
+
+Testing:
+Precondition: There is no missiles on screen and the game is running
+Action: User rapidly presses the right mouse button 3 times, and the space bar 3 times
+Postcondition: There is 5 missiles shooting across the screen
+
+Precondition: Game is running and a missile has been fired in the last 5 minutes
+Action: User presses left click or escape
+Postcondition: The game exits.
+
+Precondition: There is 5 missiles currently on the screen while game is running
+Action: One missile goes off the screen or hits a ship
+Postcondition: The solution can fire another missile
+
+Precondition: There are two missiles on the screen
+Action: User fires another missile
+Postcondition: The distance between the missiles do not change (the missiles go the exact same speed)
+
+Precondition: No missiles on the screen while game is active
+Action: User pressed right click or space bar
+Postcondition: Missile enters from bottom middle of the screen and only goes straight up
+
+Precondition: There are ships on the screen while the game is active
+Action: User’s missile hits one of the ships
+Postcondition: Both missile and ship blows up, and thus increases the score by 1
+
+Precondition: No ships on screen
+Action: The solution launches a ship automatically
+Postcondition: At least one ship displayed on the screen
+
+Precondition: Only one ship type is selected in the configuration file
+Action: The solution spawns ships with the correct image based on the type selected in the configuration file
+Postcondition: There is only one type of ship in the game.
+
+Precondition: Two ship types are selected in the configuration file
+Action: The solution spawns ships based on the types selected in the configuration file
+Postcondition: There are two types of ships in the game.
+
+Precondition: There is a configuration file with a rate at which the ships spawn
+Action: The solution starts, and spawns ships based on the rate stated in the configuration file
+Postcondition: there should be at least one ship on screen, and it must be one of the types selected in the configuration file, and it must be less than 10 ships.
