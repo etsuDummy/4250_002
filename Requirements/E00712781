@@ -1,41 +1,67 @@
-# ---Incompleted Assignment---
-
 Ducky:
 
-  1. Ducky must be displayed on a screen
-  2. Ducky must be interactable
-  3. Ducky must be static
-  4. Ducky must make a quack sound effect
-  5. Quack counter must be displayed above Ducky
-  6. Each quack must give the user spendable points
-  7. Points must be able to be spent at the shop
-  8. Shop must contain extra duckies or increase quacks per tap
-  9. 
-  10. 
+1. As a user, I want a ducky to be visually displayed at all times so that I'll have something to talk to when coding.
+
+2. As a user, I want to be able to tap on the ducky so I can have some type of interaction with it.
+
+3. As a user, I don't want to be able to move the ducky so they are visible at all times.
+
+4. As a user, I want the duck to play a quack sound effect when tapped so I can have some audio feedback.
+
+5. As a user, I want to be able to see the amount of times I've tapped on the duck so I don't have to mentally keep track of it.
+
+6. As a user, I want to have the amount of times I tapped on the duck to be a currency so that I can have a reason to tap on the duck.
+
+7. As a user, I want to be able to use the currency I gain at a shop so I purchase upgrades for my duck.
+
+8. As a user, I want the shop to contain different types of ducks so I can personalize my duck.
+
+9. As a user, I want the shop to contain a way for me to increase the amount of quacks I get per tap, so I can get currency quicker.
+
+10. As a user, I to be able to reset my progess, or prestige, to receive a better type of currency so that I have something to work towards beyond getting more money
+
 
 Triva:
 
-  1. User must be prompted to create an account
-  2. User data must be saved
-  3. User must select a category for triva to do
-  4. User must be prompted with a question after selecting a triva category
-  5. User must be prompted a question over and over again until all lives are lsot
-  6. User must have three lives
-  7. User must be able to gain lives
-  8.
-  9. 
-  10. 
+1. As administrator, I want all users to be prompted to create an account so that everyone's data can be tied to their own account.
+
+2. As a user, I want all my data to be saved to my profile so that I don't need to reset my data every time I play.
+
+3. As a user, I want to be able to select from different triva categories so I can have multiple options to choose from
+
+4. As a user, I want to immediately be prompted with a question after selecting a category so that I can jump right into the game
+
+5. As a user, I want the game to repeat until I run out of lives so that I have some stakes to hold on to while playing
+
+6. As a user, I want to have three lives to start out as I want enough to make mistakes but not too many to feel like they aren't valuable
+
+7. As a user, I want to be able to increase the amount lives I have throughout playing so that I can gain lives back after loosing them and gain more than three lives overtime.
+
+8. As a user, I should be able to adjust the difficult of questions so that I can give myself harder or easier problems if I feel like it.
+
+9. As a user, I should have some lifelines so that I can get help with difficult questions.
+
+10. As a user, I want to be able to use a lifeline so that I can get a hint for a difficult question.
 
 
 Sprint:
 
-  1. User must be prompted to create an account
-  2. Enviornment must move not the player
-  3. Player must be constantly moving
-  4. Player must be able to jump
-  5.
-  6. 
-  7. 
-  8. 
-  9.
-  10.
+1. As administrator, I want all users to be prompted to create an account so that everyone's data can be tied to their own account.
+
+2. As a user, I want all my data to be saved to my profile so that I don't need to reset my data every time I play.
+
+3. As a user, I want the environment to move and not the player so that it isn't as disorganizing to follow along with the avatar.
+
+4. as a user, I want to constantly be moving so that I have to react with a limited amount of time to avoid obstacles.
+
+5. as a user, I  want to be able to jump so that I can avoid obstacles in the level.
+
+6. as a user, I want to be able to pick up powerups so that I can get more points and avoid obstacles easier in the levels.
+
+7. as a user, I want to be able to select from an endless mode and a level mode so that I have more play options to choose from.
+
+8. as a administrator, I want all obstacles to be reusable so that they can be used like building blocks to build levels quicker.
+
+9. As a user, I want to be able to walk up the walls so that I can avoid obstacles without jumping.
+
+10. As a user, I want each sequential world's levels to be faster than the previous world's levels so that I can test my skills with the game as I progress further in the level mode.

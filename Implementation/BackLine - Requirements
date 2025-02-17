@@ -1,0 +1,15 @@
+Requirements
+------------
+-must accept user input
+-must take two numbers
+-must sum two numbers
+-must separate least significant digit
+-must add separated digit to remaining digits
+-must repeat if more than one digit remains
+-must halt when single digit answer
+WCK -- recursion was a design constraing (Mandatory, Non-Functional)
+
+-integers only
+-print out exceptions to user
+---int conversion error exception
+-console app c#
